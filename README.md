@@ -6,3 +6,7 @@
 - Docker
 - Vue
 - Rails
+
+# Functions
+- Auth
+- Post tweet
